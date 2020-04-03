@@ -1,6 +1,6 @@
 ## Kubelist
 
-** This is really just a proof of concept at the current time **
+**This is really just a proof of concept at the current time**
 
 This tool allows you to easily scan literally **every** object in your kubernetes cluster. It uses the kubernetes discovery and dynamic apis to ensure that
 it fully scans all resource types, even custom resource definitions. It is more inclusive than kubectl tends to be without major fiddling.
